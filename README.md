@@ -46,21 +46,6 @@ Unit tests are using the Jasmine Framework.
 
 The e2e tests are using Protractor and Jasmine.
 
-## Built With
+## Website URL 
 
-- [Angular](https://angular.io/) - Single Page Application Framework
-- [Node](https://nodejs.org) - Javascript Runtime
-- [Express](https://expressjs.com/) - Javascript API Framework
-
-
-## PIPELINE
-
-1. Prepare Enviroment Variables
-1. Install Node
-1. Install AWS and EB cli's
-1. Configure AWS credentials 
-1. Install Dependencies "Front-end & Back-end"
-1. Build Front-end
-1. Build API
-1. Deploy API
-1. Deploy Application 
+http://randomtulfbucket.s3-website-us-east-1.amazonaws.com
